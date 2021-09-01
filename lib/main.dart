@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:web3/privacy.dart';
+import 'package:firebase/firebase.dart';
 
 void main() {
   runApp(MyApp());
